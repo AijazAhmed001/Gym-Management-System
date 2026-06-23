@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=Gym%20Management%20System&fontSize=35&fontColor=ffffff" />
+</p>
+
 # 🏋️ IronPeak Fitness — Gym Management Portal
 
 **A full-stack gym management system** with member portal, admin dashboard, workout planner, class booking, progress tracking, and billing management.

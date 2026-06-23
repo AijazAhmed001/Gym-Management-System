@@ -2,6 +2,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=Gym%20Management%20System&fontSize=35&fontColor=ffffff" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-16-black" />
+  <img src="https://img.shields.io/badge/TypeScript-blue" />
+  <img src="https://img.shields.io/badge/Prisma-green" />
+  <img src="https://img.shields.io/badge/FullStack-Project-orange" />
+</p>
+
+## 🏋️ Project Overview
+
+A full-stack **Gym Management System** with:
+
+- Member dashboard
+- Admin panel
+- Workout planner
+- Class booking
+- Progress tracking
+- Billing system
+
 # 🏋️ IronPeak Fitness — Gym Management Portal
 
 **A full-stack gym management system** with member portal, admin dashboard, workout planner, class booking, progress tracking, and billing management.
